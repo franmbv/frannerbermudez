@@ -1,0 +1,157 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/*Containers*/
+
+.container-fluid {
+  margin: 0%;
+  padding: 7% 15%;
+}
+
+.container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/*Sections*/
+
+.colored-section {
+  background: #1c3879 url(assets/images/fondo.png);
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Navigation bar*/
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0%;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/*Title section  */
+
+#title .container-fluid {
+  text-align: center;
+  padding: 0;
+}
+
+.title-image {
+  width: 250px;
+  height: 250px;
+  border-radius: 150px;
+  border: 2px solid #fff;
+}
+
+/*Skills section */
+
+#skills {
+  padding: 5% 10%;
+}
+
+/*Projects section*/
+
+#projects {
+  padding: 60px;
+}
+
+.card-img-top {
+  border: 1px solid #1c3879;
+}
+
+.card-title {
+  color: #1c3879;
+}
+
+.btn:active { 
+  transform: translateY(2px); 
+}
+
+.btn-outline {
+  border-color: #1c3879;
+  color: #1c3879;
+}
+
+.btn-outline:hover {
+  background-color: #1c3879;
+}
+.card a {
+  text-decoration: none;
+}
+
+#project .btn:hover {
+  color: white;
+}
+
+/*Footer*/
+
+.navigation-block {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-link {
+  display: inline-block;
+  padding: 0;
+  margin: 20px 10px;
+}
+
+.navigation-link:hover {
+  background-color: lightgray;
+}
+
+/* Media queries*/
+@media (min-width: 700px) {
+  #title {
+    padding-top: 4%;
+  }
+
+  .big-heading {
+    font-size: 3.5rem;
+  }
+}

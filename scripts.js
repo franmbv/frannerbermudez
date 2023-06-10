@@ -122,7 +122,7 @@ let projects = [
 
   new Project(
     "Menu",
-    "Website made to create and delete notes in a functional way.",
+    "Website made to streamline the display of the menu in restaurants.",
     "assets/images/menu-image.png",
     "https://github.com/franmbv/menu",
     "https://franmbv.github.io/menu/"

@@ -16,6 +16,10 @@ This is the portfolio of Franner Bermudez, a frontend developer with experience 
 <p> 
 It is divided into four sections where the 
 </p>
+- HTML;
+- CSS;
+- Bootstrap;
+- Javascript
 - Profile; 
 - Known technologies; 
 - Projects and;

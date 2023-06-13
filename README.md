@@ -16,11 +16,13 @@ This is the portfolio of Franner Bermudez, a frontend developer with experience 
 <p> 
 It is divided into four sections where the 
 </p>
-- HTML;
-- CSS;
-- Bootstrap;
-- Javascript
-- Profile; 
+
+- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
+- Support identification, interpretation, fliter of the HTML tags;
+- Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
+- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+
+- Profile; </br>
 - Known technologies; 
 - Projects and;
 - My contact are observed.

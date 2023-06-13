@@ -15,11 +15,11 @@ This is the portfolio of Franner Bermudez, a frontend developer with experience 
 
 <p> 
 It is divided into four sections where the 
+</p>
 - Profile; 
 - Known technologies; 
 - Projects and;
 - My contact are observed.
-</p>
   
 #### Contact me
  

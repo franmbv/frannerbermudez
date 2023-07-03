@@ -127,6 +127,14 @@ let projects = [
     "https://github.com/franmbv/menu",
     "https://franmbv.github.io/menu/"
   ),
+  
+  new Project(
+    "Blood interpret",
+    "It is used to interpret the results of a blood test, in this case hemoglobine.",
+    "assets/images/bloodinterpret.png",
+    "https://github.com/franmbv/bloodinterpret",
+    "https://franmbv.github.io/bloodinterpret/"
+  ),
 ];
 
 let footers = [

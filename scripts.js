@@ -121,11 +121,11 @@ let projects = [
   ),
 
   new Project(
-    "Menu",
-    "Website made to streamline the display of the menu in restaurants.",
-    "assets/images/menu-image.png",
-    "https://github.com/franmbv/menu",
-    "https://franmbv.github.io/menu/"
+    "Cryptofuse",
+    "Website made to exchange cryptocurrencies. Developed with Vue 3.",
+    "assets/images/cryptofuse.png",
+    "https://github.com/franmbv/cryptofuse",
+    "https://cryptofus.netlify.app/"
   ),
   
   new Project(

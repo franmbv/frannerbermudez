@@ -131,11 +131,11 @@ let projects = [
   ),
   
   new Project(
-    "Blood interpret",
-    "It is used to interpret the results of a blood test, in this case hemoglobine.",
-    "assets/images/bloodinterpret.png",
-    "https://github.com/franmbv/bloodinterpret",
-    "https://franmbv.github.io/bloodinterpret/"
+    "Printlab",
+    "Landing Page for a Printshop",
+    "assets/images/printlab.png",
+    "https://github.com/franmbv/printlab/",
+    "https://printla.netlify.app/"
   ),
 
   new Project(

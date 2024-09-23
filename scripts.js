@@ -115,11 +115,11 @@ let skills = [
 
 let projects = [
   new Project(
-    "Budge it",
-    "Web application to calculate budgets dynamically.",
-    "assets/images/budge-image.png",
-    "https://github.com/franmbv/budget",
-    "https://franmbv.github.io/budget/"
+    "Luxo",
+    "Landing page for a shop.",
+    "assets/images/luxo.png",
+    "https://github.com/franmbv/luxo",
+    "https://luxo.netlify.app/"
   ),
 
   new Project(
